@@ -1,1 +1,15 @@
 # weather-app
+
+*COMPANY* : CODTECH IT SOLUTIONS
+
+*NAME* : ELURI LAKSHMIPRASANNA
+
+*INTERN ID* : CTIS3215
+
+*DOMAIN* : FULLSTACK DEVELOPMENT
+
+*DURATION* : 6WEEKS
+
+*MENTOR* : NEELA SANTHOSH KUMAR
+
+A Weather App is a web application that provides real-time weather information for any city using a weather API. It displays details such as temperature, humidity, wind speed, and weather conditions. The app is built using HTML, CSS, and JavaScript for a simple and user-friendly interface. It helps users quickly check current weather updates online.
