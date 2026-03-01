@@ -13,3 +13,7 @@
 *MENTOR* : NEELA SANTHOSH KUMAR
 
 A Weather App is a web application that provides real-time weather information for any city using a weather API. It displays details such as temperature, humidity, wind speed, and weather conditions. The app is built using HTML, CSS, and JavaScript for a simple and user-friendly interface. It helps users quickly check current weather updates online.
+
+*output* :
+
+<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/61388f1c-94d4-4e4a-9b83-682904045a46" />
