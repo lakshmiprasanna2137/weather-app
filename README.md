@@ -16,4 +16,4 @@ A Weather App is a web application that provides real-time weather information f
 
 *output* :
 
-<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/61388f1c-94d4-4e4a-9b83-682904045a46" />
+<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/2769b66d-ef9f-4506-ae41-a46f41a2a3b9" />
